@@ -32,25 +32,25 @@ A. C. Vaucher, M. Reiher,
 
 A. C. Vaucher,
 "Response time of quantum-chemical calculations during real-time reactivity explorations", 
-SCS Fall Meeting,
+*SCS Fall Meeting*,
 Lausanne, Switzerland, 
 04.09.2015.
 
 A. C. Vaucher,
 "Real-time quantum chemistry", 
-2nd Joint Seminar on Purpose-Driven Quantum Chemistry,
+*2nd Joint Seminar on Purpose-Driven Quantum Chemistry*,
 Bödefeld, Germany, 
 16.09.2015.
 
 M. P. Haag, A. C. Vaucher,
 "Interactive Exploration of Chemical Reactivity in Education", 
-Future of Chemical Education (Workshop within the SCS Meeting),
+*Future of Chemical Education (Workshop within the SCS Meeting)*,
 Zurich, Switzerland, 
 15.09.2016.
 
 A. C. Vaucher,
 "Interactive Quantum Chemistry", 
-Minisymposium Doktorierende,
+*Minisymposium Doktorierende*,
 Zurich, Switzerland, 
 26.09.2017.
 
@@ -59,31 +59,31 @@ Zurich, Switzerland,
 
 A. C. Vaucher, M. P. Haag, M. Reiher,
 "Modern human-molecule interaction — molecular feedback in a virtual laboratory",
-Novartis Day,
+*Novartis Day*,
 Zurich, Switzerland,
 2015.
 
 T. Husch, F. Krausbeck, J. Proppe, G. N. Simm, A. C. Vaucher, M. Reiher,
 "Exploration of Complex Chemical Reaction Mechanisms",
-Exploring Chemical Space with Machine Learning and Quantum Mechanics,
+*Exploring Chemical Space with Machine Learning and Quantum Mechanics*,
 Zurich, Switzerland,
 2016.
 
 A. C. Vaucher, M. Reiher,
 "Real-Time Quantum Chemistry",
-8th Molecular Quantum Mechanics,
+*8th Molecular Quantum Mechanics*,
 Uppsala, Sweden,
 2016.
 
 A. C. Vaucher, M. Reiher,
 "Real-Time Quantum Chemistry",
-C4 Workshop,
+*C4 Workshop*,
 Rüschlikon, Switzerland, 
 2017.
 
 A. C. Vaucher, M. Reiher
 "Steering Orbital Optimization out of Local Minima and Saddle Points Toward Lower Energy",
-11th Triennial Congress of the World Association of Theoretical and Computational Chemists,
+*11th Triennial Congress of the World Association of Theoretical and Computational Chemists*,
 Munich, Germany,
 2017.
 
@@ -91,31 +91,31 @@ Munich, Germany,
 
 M. P. Haag, A. C. Vaucher, M. Bosson, S. Redon, M. Reiher,
 "Exploring Chemical Reactivity Interactively",
-Faraday Discussion 169, 
+*Faraday Discussion 169*,
 Nottingham, United Kingdom, 
 2014.
 
 A. H. Mühlbach, A. C. Vaucher, M. Reiher,
 "SCF Convergence Acceleration in Real-time Quantum Chemistry",
-52nd Symposium on Theoretical Chemistry,
+*52nd Symposium on Theoretical Chemistry*,
 Bochum, Germany,
 2016.
 
 T. Husch, F. Krausbeck, J. Proppe, G. N. Simm, A. C. Vaucher, M. Reiher,
 "Exploration of Complex Chemical Reaction Mechanisms",
-SCS Fall Meeting,
+*SCS Fall Meeting*,
 Zurich, Switzerland,
 2016.
 
 A. H. Mühlbach, A. C. Vaucher, M. Reiher,
 "Real-Time Quantum Chemistry",
-11th Triennial Congress of the World Association of Theoretical and Computational Chemists,
+*11th Triennial Congress of the World Association of Theoretical and Computational Chemists*,
 Munich, Germany,
 2017.
 
 A. H. Mühlbach, A. C. Vaucher, M. Reiher,
 "Self-consistent Field Convergence Acceleration in Real-time Quantum Chemistry",
-C4 Workshop,
+*C4 Workshop*,
 Rüschlikon, Switzerland, 
 2017.
 
