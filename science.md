@@ -3,7 +3,7 @@ title: Science
 layout: page
 ---
 
-# Scientific contribtuions
+# Scientific contributions
 
 ## Peer-reviewed publications
 
