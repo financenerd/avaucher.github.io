@@ -87,6 +87,7 @@ A. C. Vaucher, M. Reiher
 Munich, Germany,
 2017.
 
+<!---
 ## Posters (as co-author)
 
 M. P. Haag, A. C. Vaucher, M. Bosson, S. Redon, M. Reiher,
@@ -118,6 +119,7 @@ A. H. Mühlbach, A. C. Vaucher, M. Reiher,
 *C4 Workshop*,
 Rüschlikon, Switzerland, 
 2017.
+-->
 
 
 ## Other publications
