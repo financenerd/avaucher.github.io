@@ -8,7 +8,7 @@ layout: page
 ## Personal data
 
 * **Year of birth**: 1990
-* **Nationality**: Switzerland
+* **Nationality**: Swiss
 
 ## Education
 
