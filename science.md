@@ -27,6 +27,10 @@ A. C. Vaucher, M. Reiher,
 "Steering Orbital Optimization out of Local Minima and Saddle Points Toward Lower Energy",
 *J. Chem. Theory Comput.* **2017**, *13*, 1219-1228.
 
+M. A. Heuer, A. C. Vaucher, M, P. Haag, M. Reiher,
+"Integrated Reaction Path Processing from Sampled Structure Sequences",
+*submitted*, **2018**.
+
 
 ## Talks
 
