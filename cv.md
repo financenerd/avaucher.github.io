@@ -29,7 +29,7 @@ layout: page
 
 ## Publications
 
-See publications [here](science.md).
+See list of publications [here](science.md).
 
 ## Patents
 
