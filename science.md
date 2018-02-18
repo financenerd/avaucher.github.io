@@ -8,31 +8,31 @@ layout: page
 ## Peer-reviewed publications
 
 M. P. Haag, A. C. Vaucher, M. Bosson, S. Redon, M. Reiher, 
-"Interactive Chemical Reactivity Exploration", 
+[Interactive Chemical Reactivity Exploration](http://onlinelibrary.wiley.com/doi/10.1002/cphc.201402342/full),
 *ChemPhysChem* **2014**, *15*, 3301-3319.
 
 A. C. Vaucher, M. P. Haag, M. Reiher,
-"Real-time feedback from iterative electronic structure calculations",
+[Real-time feedback from iterative electronic structure calculations](http://onlinelibrary.wiley.com/doi/10.1002/jcc.24268/full),
 *J. Comput. Chem.* **2016**, *37*, 805-812.
 
 A. H. Mühlbach, A. C. Vaucher, M. Reiher,
-"Accelerating Wave Function Convergence in Interactive Quantum Chemical Reactivity Studies",
+[Accelerating Wave Function Convergence in Interactive Quantum Chemical Reactivity Studies](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01156),
 *J. Chem. Theory Comput.* **2016**, *12*, 1228-1235.
 
 A. C. Vaucher, M. Reiher,
-"Molecular propensity as a driver for explorative reactivity studies",
+[Molecular propensity as a driver for explorative reactivity studies](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00264),
 *J. Chem. Inf. Model.* **2016**, *56*, 1470-1478.
 
 A. C. Vaucher, M. Reiher,
-"Steering Orbital Optimization out of Local Minima and Saddle Points Toward Lower Energy",
+[Steering Orbital Optimization out of Local Minima and Saddle Points Toward Lower Energy](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00011),
 *J. Chem. Theory Comput.* **2017**, *13*, 1219-1228.
 
 M. A. Heuer, A. C. Vaucher, M, P. Haag, M. Reiher,
-"Integrated Reaction Path Processing from Sampled Structure Sequences",
+[Integrated Reaction Path Processing from Sampled Structure Sequences](https://arxiv.org/abs/1801.02100),
 *submitted*, **2018**.
 
 A. C. Vaucher, M. Reiher,
-"Minimum Energy Paths and Transition States by Curve Optimization",
+[Minimum Energy Paths and Transition States by Curve Optimization](https://arxiv.org/abs/1802.05669),
 *submitted*, **2018**.
 
 
