@@ -31,6 +31,10 @@ M. A. Heuer, A. C. Vaucher, M, P. Haag, M. Reiher,
 "Integrated Reaction Path Processing from Sampled Structure Sequences",
 *submitted*, **2018**.
 
+A. C. Vaucher, M. Reiher,
+"Minimum Energy Paths and Transition States by Curve Optimization",
+*submitted*, **2018**.
+
 
 ## Talks
 
