@@ -62,6 +62,12 @@ A. C. Vaucher,
 Zurich, Switzerland, 
 26.09.2017.
 
+A. C. Vaucher,
+"Interactive Quantum Chemistry", 
+*"Computational Toolbox" Winterschool 2018: "Virtual Reality in the Natural Sciences"*,
+Engelberg, Switzerland, 
+16.02.2018.
+
 
 ## Posters (as presenter)
 
