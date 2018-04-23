@@ -28,12 +28,12 @@ A. C. Vaucher, M. Reiher,
 *J. Chem. Theory Comput.* **2017**, *13*, 1219-1228.
 
 M. A. Heuer, A. C. Vaucher, M, P. Haag, M. Reiher,
-[Integrated Reaction Path Processing from Sampled Structure Sequences](https://arxiv.org/abs/1801.02100),
-*submitted*, **2018**.
+[Integrated Reaction Path Processing from Sampled Structure Sequences](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00019),
+*J. Chem. Theory Comput.* **2018**, *14*, 2052-2062.
 
 A. C. Vaucher, M. Reiher,
-[Minimum Energy Paths and Transition States by Curve Optimization](https://arxiv.org/abs/1802.05669),
-*submitted*, **2018**.
+[Minimum Energy Paths and Transition States by Curve Optimization](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00169),
+*J. Chem. Theory Comput.* **2018**.
 
 
 ## Talks
