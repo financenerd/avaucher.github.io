@@ -139,17 +139,17 @@ Rüschlikon, Switzerland,
 ## Other publications
 
 K. Birbaum, P. Ludwig, B. Wicky, A. Vaucher,
-"Two Bronze Medals for Switzerland at the 43rd International Chemistry Olympiad in Ankara, Turkey",
+[Two Bronze Medals for Switzerland at the 43rd International Chemistry Olympiad in Ankara, Turkey](https://doi.org/10.2533/chimia.2012.136),
 *Chimia* **2012**, *66*, 136-137.
 
 B. I. M. Wicky, S. Keller, P. Ludwig, P., A. Vaucher, 
-"Two Bronze Medals for Switzerland at the 44th International Chemistry Olympiad Held in Washington DC, USA",
+[Two Bronze Medals for Switzerland at the 44th International Chemistry Olympiad Held in Washington DC, USA](https://doi.org/10.2533/chimia.2013.351),
 *Chimia* **2013**, *67*, 351-352.
 
 P. E. Ludwig, A. C. Vaucher, T. P. Lê, Y. Suter,
-"Two Bronze Medals for Switzerland at the 46th International Chemistry Olympiad in Hanoi, Vietnam",
+[Two Bronze Medals for Switzerland at the 46th International Chemistry Olympiad in Hanoi, Vietnam](https://doi.org/10.2533/chimia.2015.71),
 *Chimia* **2015**, *69*, 71-72.
 
 A. C. Vaucher,
-"One Bronze Medal for Switzerland at the 48th International Chemistry Olympiad in Tbilisi, Georgia",
+[One Bronze Medal for Switzerland at the 48th International Chemistry Olympiad in Tbilisi, Georgia](https://doi.org/10.2533/chimia.2015.911),
 *Chimia*, **2016**, *70*, 911-912.
