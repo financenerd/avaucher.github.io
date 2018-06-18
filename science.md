@@ -33,7 +33,7 @@ M. A. Heuer, A. C. Vaucher, M, P. Haag, M. Reiher,
 
 A. C. Vaucher, M. Reiher,
 [Minimum Energy Paths and Transition States by Curve Optimization](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00169),
-*J. Chem. Theory Comput.* **2018**.
+*J. Chem. Theory Comput.* **2018**, *14*, 3091-3099.
 
 
 ## Talks
