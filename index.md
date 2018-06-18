@@ -7,6 +7,6 @@ layout: page
 
 # About me
 
-I am a PhD student in theoretical chemistry with a strong background in scientific computing and substantial interest in
+I recently finished a PhD in theoretical chemistry. I have a strong background in scientific computing and substantial interest in
 research and new technologies.
 
