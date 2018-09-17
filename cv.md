@@ -10,6 +10,10 @@ layout: page
 * **Year of birth**: 1990
 * **Nationality**: Swiss
 
+## Professional Experience
+
+* **Machine Learning Engineer** (2018-present): BenevolentAI, London, United Kingdom
+
 ## Education
 
 * **Doctoral Studies in Chemistry** (2015-2018): ETH Zurich, Switzerland  
