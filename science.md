@@ -35,6 +35,10 @@ A. C. Vaucher, M. Reiher,
 [Minimum Energy Paths and Transition States by Curve Optimization](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00169),
 *J. Chem. Theory Comput.* **2018**, *14*, 3091-3099.
 
+T. Husch, A. C. Vaucher, M. Reiher,
+[Semiempirical Molecular Orbital Models based on the Neglect of Diatomic Differential Overlap Approximation](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25799),
+*Int. J. Quantum Chem.* **2018**, *118*, e25799.
+
 
 ## Talks
 
@@ -133,6 +137,13 @@ A. H. Mühlbach, A. C. Vaucher, M. Reiher,
 *C4 Workshop*,
 Rüschlikon, Switzerland, 
 2017.
+
+M. Segler, M. Ahmed, N. Brown, M. Fiscato, D. Neil, D. Plumbley, M. Sellwood, A. Vaucher,
+"Benchmarking Neural Generative Models for De Novo Design",
+*14th German Conference on Chemoinformatics*,
+Mainz, Germany,
+2018.
+
 -->
 
 
