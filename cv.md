@@ -41,6 +41,7 @@ See list of publications [here](science.md).
 
 ## Awards and Distinctions
 
+* **IBM Research Prize** for Computer Modelling and Simulations in Chemistry, Biology and Material Science, 2018.
 * **ETH Medal** for an outstanding Master's thesis, 2015.
 * Holder of a **Binding scholarship**, awarded by the Sophie und Karl Binding Foundation, 2013-2015. 
 * Participation in the **International Olympiad in Informatics** (IOI), Waterloo, Canada, 2010.
