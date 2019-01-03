@@ -58,6 +58,6 @@ See list of publications [here](science.md).
 
 ## Other
 
-* Member of the board of the Swiss Chemistry Olympiad, 2010-present.
+* Member of the board of the Swiss Chemistry Olympiad, 2010-2018.
 * Member of the board of the Association of the Swiss Scientific Olympiads, 2015-2017.
 * Member of the Swiss Study Foundation, 2011-2018.
