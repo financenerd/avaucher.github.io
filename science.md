@@ -39,6 +39,9 @@ T. Husch, A. C. Vaucher, M. Reiher,
 [Semiempirical Molecular Orbital Models based on the Neglect of Diatomic Differential Overlap Approximation](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.25799),
 *Int. J. Quantum Chem.* **2018**, *118*, e25799.
 
+G. N. Simm, A. C. Vaucher, M. Reiher,
+[Exploration of Reaction Pathways and Chemical Transformation Networks](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.8b10007),
+*J. Phys. Chem. A* **2019**, *123*, 385-399.
 
 ## Talks
 
