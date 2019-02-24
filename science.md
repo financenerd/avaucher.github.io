@@ -5,6 +5,8 @@ layout: page
 
 # Scientific contributions
 
+My full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=fWS-rosAAAAJ).
+
 ## Peer-reviewed publications
 
 M. P. Haag, A. C. Vaucher, M. Bosson, S. Redon, M. Reiher, 
