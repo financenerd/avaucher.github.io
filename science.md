@@ -45,6 +45,10 @@ G. N. Simm, A. C. Vaucher, M. Reiher,
 [Exploration of Reaction Pathways and Chemical Transformation Networks](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.8b10007),
 *J. Phys. Chem. A* **2019**, *123*, 385-399.
 
+N. Brown, M. Fiscato, M. H. S. Segler, A. C. Vaucher,
+[GuacaMol: Benchmarking Models for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839),
+*J. Chem. Inf. Model.* **2019**, *59*, 1096-1108.
+
 ## Talks
 
 A. C. Vaucher,
