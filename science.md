@@ -49,6 +49,11 @@ N. Brown, M. Fiscato, M. H. S. Segler, A. C. Vaucher,
 [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839),
 *J. Chem. Inf. Model.* **2019**, *59*, 1096-1108.
 
+S. Amabilino, L. A. Bratholm, S. J. Bennie, A. C. Vaucher, M. Reiher, D. R. Glowacki,
+[Training Neural Nets To Learn Reactive Potential Energy Surfaces Using Interactive Quantum Chemistry in Virtual Reality](https://pubs.acs.org/doi/10.1021/acs.jpca.9b01006),
+*J. Phys. Chem. A* **2019**, *123*, 4486-4499.
+
+
 ## Talks
 
 A. C. Vaucher,
