@@ -12,7 +12,8 @@ layout: page
 
 ## Professional Experience
 
-* **Machine Learning Researcher** (10/2018-present): BenevolentAI, London, United Kingdom
+* **Research Staff Member** (08/2019-present): IBM Research, Zurich, Switzerland
+* **Machine Learning Researcher** (10/2018-06/2019): BenevolentAI, London, United Kingdom
 * **Machine Learning Engineer** (07/2018-09/2018): BenevolentAI, London, United Kingdom
 
 ## Education
