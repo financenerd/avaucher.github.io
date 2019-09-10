@@ -7,6 +7,4 @@ layout: page
 
 # About me
 
-I recently finished a PhD in theoretical chemistry. I have a strong background in scientific computing and substantial interest in
-research and new technologies.
-
+Research Scientist in Chemistry and Machine Learning at IBM. I have a strong background in scientific computing and substantial interest in research and new technologies. 
